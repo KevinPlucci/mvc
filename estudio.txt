@@ -1,6 +1,7 @@
-Es un patrón de diseño o desarrollo de software, se emplea para separar la lógica de la vista, esto facilita la portabilidad de la aplicación y el mantenimiento mucho más organizado y ordenado.
+Es un patrón de diseño o desarrollo de software, se emplea para separar la lógica de la vista, esto facilita la portabilidad de la aplicación y 
+el mantenimiento mucho más organizado y ordenado.
 
-Antes. El MVC separa tres aspectos fundamentales claramente marcados :
+El MVC separa tres aspectos fundamentales claramente marcados :
 
 El modelo (1) 
 Los datos  lo que es la lógica de negocio de una aplicación
